@@ -22,6 +22,6 @@ $(document).ready(function(){
     });
 
     $('.home_btn').click(function() {
-        alert('This section is made under constarction')
+        alert('This section is made under constraction')
     });
 });
